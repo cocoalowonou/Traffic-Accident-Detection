@@ -1,4 +1,5 @@
-# DoTA_TempoLearn
+# TAD Spatio-Temporal Learning for Traffic Accident Detection
+
 This is the source code for Spatio-Temporal Learning for Traffic Accident Detection trained on [Detection of Traffic Anomaly (DoTA)](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly) Dataset. The model supports 2 staged-pipeline: anomaly localization and classification of anomaly type. 
 
 # Model Interface
